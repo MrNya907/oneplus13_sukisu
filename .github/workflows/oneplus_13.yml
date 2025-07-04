@@ -5,7 +5,7 @@ on:
       KERNEL_SUFFIX:
         description: '内核名称修改(可改中文和emoji)'
         required: true
-        default: '-酷安FutabaWa'
+        default: '-Nya_Fish-猫娘限定版-🍥'
       KERNEL_TIME:
        description: "内核构建日期更改(默认为原厂)"
        required: true
